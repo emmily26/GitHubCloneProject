@@ -1,1 +1,1 @@
-"Objective: Practice creating branches for feauture development, merging branches, and resolving merge conflicts." 
+"Objective: Practice creating branches for feature development, merging branches, and resolving merge conflicts." 
